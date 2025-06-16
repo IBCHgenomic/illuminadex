@@ -1,8 +1,8 @@
 # illuminadex
 
-![](https://github.com/IBCHgenomic/bcl2fastq/blob/main/sample-files/logo.jpg)
-
 - a illumina index read desktop application
+
+![](https://github.com/IBCHgenomic/bcl2fastq/blob/main/sample-files/logo.jpg)
 
 ```
 cargo build
