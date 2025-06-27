@@ -1,6 +1,6 @@
 # illuminadex
 
-![](https://github.com/IBCHgenomic/illuminadex/blob/main/illuminadex.png)
+<img src="[https://github.com/IBCHgenomic/proteogenomics/blob/main/proteogenomics.png](https://github.com/IBCHgenomic/illuminadex/blob/main/illuminadex.png)" width="350" />
 ![](https://github.com/IBCHgenomic/eVaiutilities/blob/main/logo.png)
 
 - a illumina index read desktop application using graphical RUST. 
