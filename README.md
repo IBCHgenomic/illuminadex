@@ -1,8 +1,9 @@
 # illuminadex
 
+![](https://github.com/IBCHgenomic/illuminadex/blob/main/illuminadex.png)
 ![](https://github.com/IBCHgenomic/eVaiutilities/blob/main/logo.png)
 
-- a illumina index read desktop application
+- a illumina index read desktop application using graphical RUST. 
 
 ```
 cargo build
